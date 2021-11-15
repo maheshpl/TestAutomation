@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testng Unit Tests]">
+  <test thread-count="5" name="Users and Products(failed)">
+    <classes>
+      <class name="com.sgtesting.tests.users.Users">
+        <methods>
+          <include name="intialize"/>
+          <include name="tearDown"/>
+          <include name="createUser"/>
+        </methods>
+      </class> <!-- com.sgtesting.tests.users.Users -->
+    </classes>
+  </test> <!-- Users and Products(failed) -->
+</suite> <!-- Failed suite [Testng Unit Tests] -->
