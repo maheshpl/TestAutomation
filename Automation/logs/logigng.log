@@ -1,0 +1,134 @@
+2021-11-16 16:56:40 INFO  .:27 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:56:43 INFO  .:31 - the browser has launched successfully
+2021-11-16 16:56:43 INFO  .:43 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:56:46 INFO  .:46 - navigated successfuly
+2021-11-16 16:56:46 INFO  .:58 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:56:51 INFO  .:63 - admin login successful
+2021-11-16 16:56:51 INFO  .:76 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:56:54 INFO  .:79 - minimized fly out window
+2021-11-16 16:56:54 INFO  .:91 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:15 INFO  .:110 - user created succesfully
+2021-11-16 16:57:15 INFO  .:122 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:23 INFO  .:132 - user deleted successfully
+2021-11-16 16:57:23 INFO  .:144 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:25 INFO  .:147 - admin logged out successfully
+2021-11-16 16:57:25 INFO  .:160 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:26 INFO  .:162 - the browser closed successfully
+2021-11-16 16:57:26 INFO  .:23 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:28 INFO  .:28 - the browser has launched successfully
+2021-11-16 16:57:28 INFO  .:40 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:30 INFO  .:43 - navigated succesfuly
+2021-11-16 16:57:30 INFO  .:55 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:35 INFO  .:60 - admin logged in successfully
+2021-11-16 16:57:35 INFO  .:72 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:37 INFO  .:75 - minimized window succesfully
+2021-11-16 16:57:37 INFO  .:87 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:57:59 INFO  .:106 - user created succesfully
+2021-11-16 16:57:59 INFO  .:118 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:08 INFO  .:127 - user modified successfully
+2021-11-16 16:58:08 INFO  .:139 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:15 INFO  .:149 - deleted user successfully
+2021-11-16 16:58:15 INFO  .:161 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:17 INFO  .:164 - admin logged out successfully
+2021-11-16 16:58:18 INFO  .:176 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:18 INFO  .:178 - the browser closed successfully
+2021-11-16 16:58:18 INFO  .:22 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:20 INFO  .:27 - the browser has launched successfully
+2021-11-16 16:58:20 INFO  .:39 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:22 INFO  .:42 - navigated successfully
+2021-11-16 16:58:22 INFO  .:54 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:28 INFO  .:59 - admin logged successfully
+2021-11-16 16:58:28 INFO  .:71 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:30 INFO  .:74 - tminimized successfully
+2021-11-16 16:58:30 INFO  .:86 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:43 INFO  .:97 - customer created successfully
+2021-11-16 16:58:43 INFO  .:109 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:54 INFO  .:118 - customer deleted successfully
+2021-11-16 16:58:54 INFO  .:130 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:56 INFO  .:133 - admin logged out successfully
+2021-11-16 16:58:56 INFO  .:146 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:56 INFO  .:148 - the browser closed successfully
+2021-11-16 16:58:56 INFO  .:26 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:58:58 INFO  .:31 - the browser has launched successfully
+2021-11-16 16:58:58 INFO  .:43 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:01 INFO  .:46 - navigated successfully
+2021-11-16 16:59:01 INFO  .:58 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:06 INFO  .:63 - admin logged in successfully
+2021-11-16 16:59:06 INFO  .:75 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:08 INFO  .:78 - minimizeFlyOutWindow successfully
+2021-11-16 16:59:08 INFO  .:90 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:21 INFO  .:101 - customer created successfully
+2021-11-16 16:59:21 INFO  .:113 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:34 INFO  .:124 - modified customer successfully
+2021-11-16 16:59:34 INFO  .:136 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:45 INFO  .:145 - customer deleted successfully
+2021-11-16 16:59:45 INFO  .:157 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:47 INFO  .:160 - admin logged out successfully
+2021-11-16 16:59:47 INFO  .:173 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:47 INFO  .:175 - the browser has closed successfully
+2021-11-16 16:59:47 INFO  .:23 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:50 INFO  .:28 - the browser has launched successfully
+2021-11-16 16:59:50 INFO  .:40 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:52 INFO  .:43 - website navigated successfully
+2021-11-16 16:59:52 INFO  .:56 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:57 INFO  .:61 - admin logged in successfully
+2021-11-16 16:59:57 INFO  .:73 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 16:59:59 INFO  .:76 - minimizeFlyOutWindow successfully
+2021-11-16 16:59:59 INFO  .:88 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:13 INFO  .:99 - customer created successfully
+2021-11-16 17:00:13 INFO  .:111 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:23 INFO  .:122 - project created successfully
+2021-11-16 17:00:23 INFO  .:134 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:32 INFO  .:143 - project deleted successfully
+2021-11-16 17:00:32 INFO  .:155 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:42 INFO  .:164 - customer deleted successfully
+2021-11-16 17:00:42 INFO  .:176 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:45 INFO  .:179 - admin logged out successfully
+2021-11-16 17:00:45 INFO  .:192 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:45 INFO  .:194 - the browser has closed successfully
+2021-11-16 17:00:45 INFO  .:23 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:46 INFO  .:28 - the browser has launched successfully
+2021-11-16 17:00:46 INFO  .:40 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:48 INFO  .:43 - navigated successfully
+2021-11-16 17:00:48 INFO  .:55 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:54 INFO  .:60 - admin logged in successfully
+2021-11-16 17:00:54 INFO  .:72 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:00:56 INFO  .:75 - minimized successfully
+2021-11-16 17:00:56 INFO  .:87 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:09 INFO  .:98 - customer created successfully
+2021-11-16 17:01:09 INFO  .:110 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:20 INFO  .:121 - project created successfully
+2021-11-16 17:01:20 INFO  .:133 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:33 INFO  .:144 - project modified successfully
+2021-11-16 17:01:33 INFO  .:156 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:39 INFO  .:163 - project deleted successfully
+2021-11-16 17:01:39 INFO  .:175 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:50 INFO  .:184 - customer deleted  successfully
+2021-11-16 17:01:50 INFO  .:196 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:52 INFO  .:199 - admin logged out successfully
+2021-11-16 17:01:52 INFO  .:212 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:53 INFO  .:214 - the browser has closed successfully
+2021-11-16 17:01:53 INFO  .:23 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:54 INFO  .:28 - the browser has launched successfully
+2021-11-16 17:01:54 INFO  .:39 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:01:56 INFO  .:42 - navigated successfully
+2021-11-16 17:01:56 INFO  .:54 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:02 INFO  .:59 - admin logged in successfully
+2021-11-16 17:02:02 INFO  .:70 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:04 INFO  .:73 - minimized successfully
+2021-11-16 17:02:04 INFO  .:85 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:17 INFO  .:96 - customer created successfully
+2021-11-16 17:02:17 INFO  .:109 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:28 INFO  .:120 - project created successfully
+2021-11-16 17:02:28 INFO  .:132 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:38 INFO  .:141 - task created successfully
+2021-11-16 17:02:38 INFO  .:153 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:49 INFO  .:162 - task deleted successfully
+2021-11-16 17:02:49 INFO  .:174 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:02:57 INFO  .:183 - project deleted successfully
+2021-11-16 17:02:57 INFO  .:195 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:03:08 INFO  .:204 - customer deleted successfully
+2021-11-16 17:03:08 INFO  .:216 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:03:10 INFO  .:219 - admin logged out successfully
+2021-11-16 17:03:10 INFO  .:232 - E:\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 17:03:11 INFO  .:234 - the browser has closed successfully
